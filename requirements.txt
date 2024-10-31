@@ -1,0 +1,15 @@
+aiogram
+python-dotenv
+colorama
+
+xchainpy2-thorchain-query
+xchainpy2-thorchain
+xchainpy2-bitcoin
+xchainpy2-litecoin
+xchainpy2-dogecoin
+xchainpy2-ethereum
+xchainpy2-bsc
+xchainpy2-cosmos
+
+
+

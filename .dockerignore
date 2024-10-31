@@ -1,0 +1,14 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore .env file (useful if you mount it instead of copying)
+.env
+
+# Ignore git and other version control directories
+.git
+.gitignore
